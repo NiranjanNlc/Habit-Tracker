@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "525055412191",
+    "firebase_url": "https://habitrecords-ce7e8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "habitrecords-ce7e8",
+    "storage_bucket": "habitrecords-ce7e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525055412191:android:dcd31add6c486e41ade66a",
+        "android_client_info": {
+          "package_name": "com.example.cleancodepractise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525055412191-r4o0hf4dbelrku1ptiohc5donrsiggpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2QVKKrKN3DoQhZVoDKRxI0VzcNfdWjxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525055412191-r4o0hf4dbelrku1ptiohc5donrsiggpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CleanCodePractise</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="develop">Developed by </string>
+    <string name="developer">Er. Niranan Lamichhane </string>
+    <string name="version">Version 1.0.0</string>
+    <string name="copyriight">CopyRight@2021</string>
+</resources>
