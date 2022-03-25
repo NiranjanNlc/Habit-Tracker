@@ -1,2 +1,2 @@
 # Habit-Tracker
-Practise set for tracking habbit
+Practise set for tracking habit
