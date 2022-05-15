@@ -2,9 +2,8 @@ package com.example.cleancodepractise.data.repo
 
 import android.content.ContentValues
 import android.util.Log
-import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
-import com.example.cleancode.Habbit
+import com.example.cleancodepractise.cleancode.Habbit
 import com.google.firebase.database.DataSnapshot
 import com.google.firebase.database.DatabaseError
 import com.google.firebase.database.ValueEventListener

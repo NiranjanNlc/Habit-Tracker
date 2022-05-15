@@ -1,4 +1,4 @@
-package com.example.cleancode
+package com.example.cleancodepractise.cleancode
 
 enum class Habbit(var habbit :String,var status :Boolean = false)
 {

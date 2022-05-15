@@ -4,7 +4,7 @@ import android.util.Log
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.example.cleancode.Habbit
+import com.example.cleancodepractise.cleancode.Habbit
 import com.example.cleancodepractise.data.repo.QuestionRepo
 
 class QuestionViewModal(val repo:QuestionRepo)

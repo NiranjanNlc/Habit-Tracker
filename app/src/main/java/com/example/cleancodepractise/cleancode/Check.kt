@@ -1,4 +1,4 @@
-package com.example.cleancode
+package com.example.cleancodepractise.cleancode
 
 import java.util.*
 

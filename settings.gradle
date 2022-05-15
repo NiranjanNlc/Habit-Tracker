@@ -1,3 +1,2 @@
 rootProject.name='CleanCodePractise'
 include ':app'
-include ':core'

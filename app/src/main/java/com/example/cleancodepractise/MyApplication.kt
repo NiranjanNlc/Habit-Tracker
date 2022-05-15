@@ -1,4 +1,4 @@
-package com.example.cleancodepractise.dragger
+package com.example.cleancodepractise
 
 import dagger.android.AndroidInjector
 //import dagger.android.DaggerApplication
